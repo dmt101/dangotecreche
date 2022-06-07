@@ -1,0 +1,34 @@
+.nav-link{
+    color: white;
+}
+.nav a img{
+    width: 4vmax;
+    margin-right: 28vmax;
+}
+.myBanner{
+    height: 48vmax;
+    width: 100%;
+    text-align: center;
+   background-image: url(../img/iStock-1158090117_wide.jpg.pagespeed.ce.xW9AjxfZNw.jpg); background-repeat: no-repeat;
+   background-size: cover;
+}
+ 
+.myBanner h2{
+    font-size: 13.5vmax;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 3px 4px blueviolet;
+}
+.myBanner p{
+    font-size: 3vmax;
+    color: whitesmoke;
+    font-style: italic;
+    text-shadow: 2px 3px blueviolet;
+}
+footer img{
+    width: 12vmax;
+}
+.dmt img{
+    width: 24vmax;
+}
+
